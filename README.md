@@ -1,2 +1,2 @@
 # Cláudio
-Cláudio is a heavy Claude 3.7 LLM code based for automated and semi-automated trading through Binance's futures API.
+Cláudio is a heavily Claude-3.7-LLM-code-based library for automated and semi-automated trading through Binance's futures API.
